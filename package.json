@@ -44,6 +44,7 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "bluebird": "2.9.25",
     "merge": "1.1.2",
     "editorconfig": "0.12.2"
   },
